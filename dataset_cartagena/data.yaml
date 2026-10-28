@@ -1,0 +1,11 @@
+names:
+  0: Mar
+  1: Arena
+  2: Edificios
+  3: Espigon
+  4: Sombrilla
+  5: Toldo
+  6: Multitud_Personas
+  7: Palmera
+path: .
+train: train.txt
